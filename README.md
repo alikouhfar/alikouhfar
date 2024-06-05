@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I've been working on <a href="https://github.com/alikouhfar/portfolio">Portfolio</a> for a while
-- 🌱 Currently Learning <a href="https://www.udemy.com/course/react-redux/">Angular</a>
+- 🔭 I've been working on <a href="https://alikouhfar.liara.run">Portfolio</a> for a while
+- 🌱 Currently Learning <a href="https://www.udemy.com/course/typescript-developer-course-beginner-to-expert">TypeScript</a>
 <!--
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate on ...
 -->
+- 📫 How to reach me: alikouhfr@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love cooking!
 
@@ -25,7 +25,7 @@ React JS | ⭐⭐⭐⭐
 Angular JS | ⭐
 
 ## 🛠️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,html,css,tailwind,bootstrap,sass,js,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,html,css,tailwind,bootstrap,sass,js,ts,react,redux)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alikouhfar&theme=darcula)](https://git.io/streak-stats)
