@@ -21,6 +21,7 @@ Skills | Rate
 HTML | ⭐⭐⭐⭐⭐
 CSS | ⭐⭐⭐⭐⭐
 JavaScript | ⭐⭐⭐⭐
+TypeScript | ⭐⭐⭐
 React JS | ⭐⭐⭐⭐
 Angular JS | ⭐
 
