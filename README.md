@@ -23,10 +23,10 @@ CSS | ⭐⭐⭐⭐⭐
 JavaScript | ⭐⭐⭐⭐
 TypeScript | ⭐⭐⭐
 React JS | ⭐⭐⭐⭐
-Angular JS | ⭐
+Next JS | ⭐⭐⭐⭐
 
 ## 🛠️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,html,css,tailwind,bootstrap,sass,js,ts,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,html,css,tailwind,bootstrap,sass,js,ts,react,nextjs,redux)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alikouhfar&theme=darcula)](https://git.io/streak-stats)
