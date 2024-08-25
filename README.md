@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I've been working on <a href="https://alikouhfar.liara.run">Portfolio</a> for a while
-- 🌱 Currently Learning <a href="https://www.udemy.com/course/typescript-developer-course-beginner-to-expert">TypeScript</a>
+- 🌱 Currently Reviewing <a href="https://nextjs.org">Next.js Documentation</a>
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
