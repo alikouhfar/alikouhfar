@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I've been working on <a href="https://alikouhfar.ir">Portfolio</a> for a while
-- 🌱 Currently Reviewing <a href="https://nextjs.org">Next.js Documentation</a>
+- 🔭 I've been working on <a>Zettelkasten Vault</a> for a while
+- 🌱 Currently Reviewing <a href="https://javascript.info">JavaScript Docs</a>
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: alikouhfr@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love cooking!
-
-Skills | Rate 
------- | ------
-HTML | ⭐⭐⭐⭐⭐
-CSS | ⭐⭐⭐⭐⭐
-JavaScript | ⭐⭐⭐⭐
-TypeScript | ⭐⭐⭐
-React JS | ⭐⭐⭐⭐
-Next JS | ⭐⭐⭐⭐
 
 ## 🛠️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,html,css,tailwind,bootstrap,sass,js,ts,react,nextjs,redux)](https://skillicons.dev)
